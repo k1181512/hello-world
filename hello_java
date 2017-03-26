@@ -1,1 +1,9 @@
-System.out.println(Hello)
+public class First{
+  public static void main(String[] args) {
+    System.out.println("Hello Java");
+    int i = 0;
+    int count = 1;
+    
+    System.out.println(i, count);
+  }
+}
